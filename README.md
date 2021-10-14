@@ -50,13 +50,3 @@
 ## توسعه دهنده
 
 - [@امید](https://www.github.com/TechWithOmid)
-
-</div>
-
-## TODO
-- [ ] add gui -> in progress
-- [ ] add config file (save user data)
-- [ ] add help menu
-- [x] make it cross platform
-- [x] make the code cleaner
-- [x] add exit key
